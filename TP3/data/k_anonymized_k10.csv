@@ -1,0 +1,912 @@
+age,gender,zip_code,city,hourly_consumption_kwh,peak_usage_time,occupancy_status,medical_equipment_active
+[70-85],M,75***,Paris,0.65,23:00-02:00,At Home,No
+[70-85],M,75***,Paris,3.52,23:00-02:00,At Work,No
+[70-85],M,75***,Paris,0.66,20:00-22:00,Night Shift,No
+[70-85],M,75***,Paris,3.28,20:00-22:00,At Home,No
+[70-85],M,75***,Paris,2.27,12:00-14:00,At Work,No
+[70-85],M,75***,Paris,2.06,23:00-02:00,At Home,No
+[70-85],M,75***,Paris,2.22,12:00-14:00,Away/Vacation,No
+[70-85],M,75***,Paris,0.66,20:00-22:00,Night Shift,No
+[70-85],M,75***,Paris,1.06,07:00-09:00,Night Shift,No
+[70-85],M,75***,Paris,1.41,07:00-09:00,At Home,No
+[70-85],M,75***,Paris,1.79,18:00-20:00,Night Shift,No
+[70-85],M,75***,Paris,1.2,07:00-09:00,Night Shift,No
+[70-85],M,75***,Paris,2.01,12:00-14:00,At Home,No
+[70-85],M,75***,Paris,3.39,07:00-09:00,At Home,No
+[70-85],M,75***,Paris,2.4,07:00-09:00,At Home,No
+[70-85],M,75***,Paris,2.05,12:00-14:00,At Home,No
+[70-85],M,75***,Paris,3.31,18:00-20:00,Away/Vacation,No
+[70-85],M,75***,Paris,0.79,12:00-14:00,At Home,No
+[70-85],M,75***,Paris,3.0,20:00-22:00,Away/Vacation,No
+[70-85],M,75***,Paris,0.99,23:00-02:00,At Home,No
+[70-85],M,75***,Paris,0.87,07:00-09:00,Away/Vacation,No
+[70-85],M,75***,Paris,0.46,12:00-14:00,At Work,No
+[70-85],M,75***,Paris,3.92,07:00-09:00,Away/Vacation,No
+[70-85],M,75***,Paris,2.85,12:00-14:00,Away/Vacation,No
+[70-85],M,75***,Paris,2.98,12:00-14:00,At Work,No
+[70-85],M,75***,Paris,1.21,23:00-02:00,At Work,No
+[70-85],M,75***,Paris,1.56,23:00-02:00,Away/Vacation,No
+[70-85],M,75***,Paris,3.28,20:00-22:00,Away/Vacation,No
+[70-85],M,75***,Paris,3.13,12:00-14:00,Away/Vacation,No
+[70-85],M,75***,Paris,2.13,18:00-20:00,At Home,No
+[70-85],M,75***,Paris,1.72,12:00-14:00,Away/Vacation,No
+[70-85],M,75***,Paris,1.04,07:00-09:00,Night Shift,No
+[70-85],M,75***,Paris,3.73,20:00-22:00,At Home,No
+[70-85],M,75***,Paris,2.79,20:00-22:00,Night Shift,No
+[70-85],M,75***,Paris,1.18,23:00-02:00,At Home,No
+[70-85],M,75***,Paris,0.48,12:00-14:00,At Work,No
+[70-85],M,75***,Paris,0.52,18:00-20:00,At Work,No
+[70-85],M,75***,Paris,0.56,23:00-02:00,Night Shift,No
+[70-85],M,75***,Paris,2.47,20:00-22:00,Away/Vacation,No
+[70-85],M,75***,Paris,0.58,23:00-02:00,Away/Vacation,No
+[70-85],M,75***,Paris,3.15,20:00-22:00,Night Shift,No
+[70-85],M,75***,Paris,2.44,18:00-20:00,Away/Vacation,No
+[70-85],M,75***,Paris,1.19,12:00-14:00,Away/Vacation,No
+[70-85],M,75***,Paris,1.92,18:00-20:00,Away/Vacation,No
+[70-85],M,75***,Paris,1.32,18:00-20:00,At Home,No
+[70-85],M,75***,Paris,1.28,20:00-22:00,Night Shift,No
+[70-85],M,75***,Paris,4.63,07:00-09:00,At Work,Yes
+[70-85],M,75***,Paris,1.45,07:00-09:00,Night Shift,No
+[70-85],M,75***,Paris,1.73,12:00-14:00,Night Shift,No
+[70-85],M,75***,Paris,2.31,20:00-22:00,Away/Vacation,No
+[70-85],M,75***,Paris,1.77,23:00-02:00,At Work,No
+[70-85],M,75***,Paris,2.75,23:00-02:00,Night Shift,No
+[70-85],M,75***,Paris,5.68,07:00-09:00,At Work,Yes
+[70-85],M,75***,Paris,3.14,07:00-09:00,At Home,No
+[70-85],M,75***,Paris,2.83,07:00-09:00,Night Shift,No
+[70-85],M,75***,Paris,3.7,07:00-09:00,At Work,No
+[70-85],M,75***,Paris,3.97,23:00-02:00,Away/Vacation,No
+[70-85],M,75***,Paris,0.79,18:00-20:00,Away/Vacation,No
+[70-85],M,75***,Paris,2.03,07:00-09:00,At Home,No
+[70-85],M,75***,Paris,3.26,07:00-09:00,At Home,No
+[70-85],M,75***,Paris,5.54,12:00-14:00,Night Shift,Yes
+[70-85],M,75***,Paris,1.82,23:00-02:00,Night Shift,No
+[70-85],M,75***,Paris,1.19,18:00-20:00,Night Shift,No
+[70-85],M,75***,Paris,3.0,18:00-20:00,Away/Vacation,No
+[70-85],M,75***,Paris,1.35,23:00-02:00,Night Shift,No
+[70-85],M,75***,Paris,0.4,18:00-20:00,Night Shift,No
+[70-85],M,75***,Paris,1.35,23:00-02:00,Night Shift,No
+[70-85],M,75***,Paris,0.78,12:00-14:00,Away/Vacation,No
+[35-54],M,75***,Paris,3.84,07:00-09:00,Night Shift,No
+[35-54],M,75***,Paris,5.55,07:00-09:00,Away/Vacation,Yes
+[35-54],M,75***,Paris,2.51,18:00-20:00,Night Shift,No
+[35-54],M,75***,Paris,1.19,12:00-14:00,At Home,No
+[35-54],M,75***,Paris,3.21,12:00-14:00,At Work,No
+[35-54],M,75***,Paris,1.36,07:00-09:00,Away/Vacation,No
+[35-54],M,75***,Paris,3.91,18:00-20:00,Away/Vacation,No
+[35-54],M,75***,Paris,3.03,23:00-02:00,At Work,No
+[35-54],M,75***,Paris,1.91,20:00-22:00,At Home,No
+[35-54],M,75***,Paris,1.95,23:00-02:00,At Work,No
+[35-54],M,75***,Paris,3.24,07:00-09:00,Away/Vacation,No
+[35-54],M,75***,Paris,7.26,18:00-20:00,Away/Vacation,Yes
+[35-54],M,75***,Paris,0.69,18:00-20:00,Night Shift,No
+[35-54],M,75***,Paris,1.48,18:00-20:00,At Home,No
+[35-54],M,75***,Paris,1.57,20:00-22:00,At Work,No
+[35-54],M,75***,Paris,4.59,07:00-09:00,Away/Vacation,Yes
+[35-54],M,75***,Paris,2.22,20:00-22:00,Night Shift,No
+[35-54],M,75***,Paris,0.35,20:00-22:00,Away/Vacation,No
+[35-54],M,75***,Paris,2.64,12:00-14:00,Away/Vacation,No
+[35-54],M,75***,Paris,0.7,07:00-09:00,Night Shift,No
+[35-54],M,75***,Paris,3.49,18:00-20:00,Night Shift,No
+[35-54],M,75***,Paris,3.9,18:00-20:00,At Work,No
+[35-54],M,75***,Paris,1.24,07:00-09:00,Night Shift,No
+[35-54],M,75***,Paris,2.95,07:00-09:00,Away/Vacation,No
+[35-54],M,75***,Paris,2.08,20:00-22:00,At Home,No
+[35-54],M,75***,Paris,3.41,12:00-14:00,At Work,No
+[35-54],M,75***,Paris,3.43,18:00-20:00,Night Shift,No
+[35-54],M,75***,Paris,0.98,12:00-14:00,Night Shift,No
+[35-54],M,75***,Paris,3.29,07:00-09:00,At Work,No
+[35-54],M,75***,Paris,0.52,20:00-22:00,Away/Vacation,No
+[35-54],M,75***,Paris,3.46,12:00-14:00,Away/Vacation,Yes
+[35-54],M,75***,Paris,1.38,20:00-22:00,At Home,No
+[35-54],M,75***,Paris,1.95,23:00-02:00,At Work,No
+[35-54],M,75***,Paris,3.55,20:00-22:00,Away/Vacation,No
+[35-54],M,75***,Paris,2.41,12:00-14:00,Away/Vacation,No
+[35-54],M,75***,Paris,3.84,18:00-20:00,At Home,No
+[35-54],M,75***,Paris,1.77,20:00-22:00,Away/Vacation,No
+[35-54],M,75***,Paris,1.3,23:00-02:00,At Home,No
+[35-54],M,75***,Paris,1.4,12:00-14:00,Night Shift,No
+[35-54],M,75***,Paris,0.4,12:00-14:00,Night Shift,No
+[35-54],M,75***,Paris,1.34,18:00-20:00,At Home,No
+[35-54],M,75***,Paris,1.94,07:00-09:00,Away/Vacation,No
+[35-54],M,75***,Paris,0.61,07:00-09:00,At Home,No
+[35-54],M,75***,Paris,1.92,12:00-14:00,Away/Vacation,No
+[35-54],M,75***,Paris,0.81,07:00-09:00,Night Shift,No
+[35-54],M,75***,Paris,1.95,12:00-14:00,Away/Vacation,No
+[35-54],M,75***,Paris,5.19,23:00-02:00,Night Shift,Yes
+[35-54],M,75***,Paris,2.27,07:00-09:00,At Work,No
+[35-54],M,75***,Paris,2.39,12:00-14:00,At Work,No
+[35-54],M,75***,Paris,3.05,12:00-14:00,Away/Vacation,No
+[35-54],M,75***,Paris,2.63,18:00-20:00,Night Shift,No
+[35-54],M,75***,Paris,0.41,07:00-09:00,Away/Vacation,No
+[35-54],M,75***,Paris,0.53,07:00-09:00,Night Shift,No
+[35-54],M,75***,Paris,2.69,07:00-09:00,At Work,No
+[35-54],M,75***,Paris,1.21,07:00-09:00,Night Shift,No
+[35-54],M,75***,Paris,1.76,20:00-22:00,At Work,No
+[35-54],M,75***,Paris,3.12,23:00-02:00,Night Shift,No
+[35-54],M,75***,Paris,0.45,20:00-22:00,At Work,No
+[35-54],M,75***,Paris,7.87,18:00-20:00,At Work,Yes
+[35-54],M,75***,Paris,0.6,23:00-02:00,At Home,No
+[35-54],M,75***,Paris,2.83,12:00-14:00,Away/Vacation,No
+[35-54],M,75***,Paris,0.65,23:00-02:00,Night Shift,No
+[35-54],M,75***,Paris,3.39,07:00-09:00,Away/Vacation,No
+[35-54],M,75***,Paris,0.77,18:00-20:00,At Home,No
+[35-54],M,75***,Paris,1.56,07:00-09:00,Away/Vacation,No
+[35-54],M,75***,Paris,0.79,07:00-09:00,Away/Vacation,No
+[55-69],F,75***,Paris,5.86,18:00-20:00,At Home,Yes
+[55-69],F,75***,Paris,1.08,18:00-20:00,At Work,No
+[55-69],F,75***,Paris,3.63,12:00-14:00,At Home,No
+[55-69],F,75***,Paris,3.81,23:00-02:00,Away/Vacation,No
+[55-69],F,75***,Paris,3.41,23:00-02:00,At Home,No
+[55-69],F,75***,Paris,1.98,20:00-22:00,Away/Vacation,No
+[55-69],F,75***,Paris,0.75,07:00-09:00,At Work,No
+[55-69],F,75***,Paris,5.64,23:00-02:00,Away/Vacation,Yes
+[55-69],F,75***,Paris,1.18,23:00-02:00,Away/Vacation,No
+[55-69],F,75***,Paris,1.04,18:00-20:00,Away/Vacation,No
+[55-69],F,75***,Paris,2.11,07:00-09:00,At Home,No
+[55-69],F,75***,Paris,2.65,18:00-20:00,At Home,No
+[55-69],F,75***,Paris,0.63,20:00-22:00,At Work,No
+[55-69],F,75***,Paris,1.38,07:00-09:00,At Work,No
+[55-69],F,75***,Paris,2.58,12:00-14:00,At Home,No
+[55-69],F,75***,Paris,0.96,07:00-09:00,Night Shift,No
+[55-69],F,75***,Paris,3.01,12:00-14:00,At Work,No
+[55-69],F,75***,Paris,1.28,07:00-09:00,Away/Vacation,No
+[55-69],F,75***,Paris,4.94,20:00-22:00,Away/Vacation,Yes
+[55-69],F,75***,Paris,3.4,23:00-02:00,At Home,No
+[55-69],F,75***,Paris,2.21,12:00-14:00,Night Shift,No
+[55-69],F,75***,Paris,3.46,12:00-14:00,Night Shift,No
+[55-69],F,75***,Paris,2.33,20:00-22:00,Away/Vacation,No
+[55-69],F,75***,Paris,0.62,23:00-02:00,At Work,No
+[55-69],F,75***,Paris,2.63,07:00-09:00,Night Shift,No
+[55-69],F,75***,Paris,1.4,23:00-02:00,At Work,No
+[55-69],F,75***,Paris,1.65,23:00-02:00,At Home,No
+[55-69],F,75***,Paris,1.1,20:00-22:00,Night Shift,No
+[55-69],F,75***,Paris,3.34,23:00-02:00,Away/Vacation,No
+[55-69],F,75***,Paris,3.76,07:00-09:00,At Work,No
+[55-69],F,75***,Paris,2.28,20:00-22:00,Night Shift,No
+[55-69],F,75***,Paris,1.31,20:00-22:00,Night Shift,No
+[55-69],F,75***,Paris,3.12,12:00-14:00,Night Shift,No
+[55-69],F,75***,Paris,3.56,23:00-02:00,Away/Vacation,No
+[55-69],F,75***,Paris,0.84,20:00-22:00,At Home,No
+[55-69],F,75***,Paris,1.78,07:00-09:00,Away/Vacation,No
+[55-69],F,75***,Paris,2.05,12:00-14:00,Night Shift,No
+[55-69],F,75***,Paris,1.84,23:00-02:00,Night Shift,No
+[55-69],F,75***,Paris,1.54,23:00-02:00,Night Shift,No
+[55-69],F,75***,Paris,1.58,23:00-02:00,Night Shift,No
+[55-69],F,75***,Paris,3.22,12:00-14:00,At Work,No
+[55-69],F,75***,Paris,2.9,18:00-20:00,Night Shift,No
+[55-69],F,75***,Paris,3.81,07:00-09:00,At Home,No
+[55-69],F,75***,Paris,1.96,23:00-02:00,Away/Vacation,No
+[55-69],F,75***,Paris,2.36,23:00-02:00,At Home,No
+[55-69],F,75***,Paris,3.83,12:00-14:00,At Work,No
+[55-69],F,75***,Paris,1.4,20:00-22:00,At Work,No
+[55-69],F,75***,Paris,0.6,12:00-14:00,Night Shift,No
+[55-69],F,75***,Paris,7.96,18:00-20:00,Night Shift,Yes
+[55-69],F,75***,Paris,8.22,12:00-14:00,Night Shift,Yes
+[55-69],F,75***,Paris,3.16,20:00-22:00,Night Shift,No
+[55-69],F,75***,Paris,0.44,23:00-02:00,Night Shift,No
+[55-69],F,75***,Paris,1.57,20:00-22:00,At Work,No
+[55-69],F,75***,Paris,1.08,23:00-02:00,Away/Vacation,No
+[55-69],F,75***,Paris,2.07,23:00-02:00,At Work,No
+[55-69],F,75***,Paris,1.71,07:00-09:00,Night Shift,No
+[55-69],F,75***,Paris,2.95,20:00-22:00,At Work,No
+[55-69],F,75***,Paris,1.49,20:00-22:00,At Work,No
+[55-69],F,75***,Paris,3.11,12:00-14:00,At Home,No
+[55-69],F,75***,Paris,2.96,07:00-09:00,Away/Vacation,No
+[55-69],F,75***,Paris,0.8,23:00-02:00,At Home,No
+[55-69],F,75***,Paris,2.73,07:00-09:00,At Work,No
+[55-69],F,75***,Paris,2.51,23:00-02:00,At Home,No
+[55-69],F,75***,Paris,2.56,18:00-20:00,Away/Vacation,No
+[55-69],F,75***,Paris,0.7,18:00-20:00,At Work,No
+[35-54],F,75***,Paris,2.55,12:00-14:00,At Work,No
+[35-54],F,75***,Paris,2.96,18:00-20:00,Night Shift,No
+[35-54],F,75***,Paris,2.92,07:00-09:00,At Home,No
+[35-54],F,75***,Paris,1.87,12:00-14:00,Away/Vacation,No
+[35-54],F,75***,Paris,2.66,12:00-14:00,At Home,No
+[35-54],F,75***,Paris,0.75,20:00-22:00,At Work,No
+[35-54],F,75***,Paris,0.75,12:00-14:00,At Work,No
+[35-54],F,75***,Paris,3.32,18:00-20:00,Away/Vacation,No
+[35-54],F,75***,Paris,3.69,07:00-09:00,At Home,No
+[35-54],F,75***,Paris,3.97,12:00-14:00,At Work,No
+[35-54],F,75***,Paris,2.13,18:00-20:00,Away/Vacation,No
+[35-54],F,75***,Paris,2.67,07:00-09:00,At Home,No
+[35-54],F,75***,Paris,1.1,12:00-14:00,At Home,No
+[35-54],F,75***,Paris,0.63,12:00-14:00,At Home,No
+[35-54],F,75***,Paris,3.34,20:00-22:00,At Home,No
+[35-54],F,75***,Paris,3.11,23:00-02:00,Night Shift,No
+[35-54],F,75***,Paris,3.73,18:00-20:00,At Home,No
+[35-54],F,75***,Paris,1.96,18:00-20:00,Away/Vacation,No
+[35-54],F,75***,Paris,2.03,18:00-20:00,Night Shift,No
+[35-54],F,75***,Paris,3.15,18:00-20:00,At Work,No
+[35-54],F,75***,Paris,2.41,12:00-14:00,At Home,No
+[35-54],F,75***,Paris,1.57,18:00-20:00,Night Shift,No
+[35-54],F,75***,Paris,1.23,12:00-14:00,At Home,No
+[35-54],F,75***,Paris,2.62,23:00-02:00,Away/Vacation,No
+[35-54],F,75***,Paris,0.93,18:00-20:00,Night Shift,No
+[35-54],F,75***,Paris,3.18,07:00-09:00,At Work,No
+[35-54],F,75***,Paris,0.6,18:00-20:00,At Home,No
+[35-54],F,75***,Paris,2.12,20:00-22:00,Night Shift,No
+[35-54],F,75***,Paris,2.23,12:00-14:00,At Work,No
+[35-54],F,75***,Paris,1.67,20:00-22:00,At Home,No
+[35-54],F,75***,Paris,2.16,20:00-22:00,At Work,No
+[35-54],F,75***,Paris,0.49,23:00-02:00,At Work,No
+[35-54],F,75***,Paris,3.19,20:00-22:00,Night Shift,No
+[35-54],F,75***,Paris,3.56,12:00-14:00,Night Shift,No
+[35-54],F,75***,Paris,1.55,20:00-22:00,At Work,No
+[35-54],F,75***,Paris,0.54,12:00-14:00,At Home,No
+[35-54],F,75***,Paris,1.38,18:00-20:00,At Work,No
+[35-54],F,75***,Paris,3.18,20:00-22:00,Away/Vacation,No
+[35-54],F,75***,Paris,3.84,12:00-14:00,Away/Vacation,No
+[35-54],F,75***,Paris,3.5,12:00-14:00,Night Shift,No
+[35-54],F,75***,Paris,3.26,12:00-14:00,Night Shift,No
+[35-54],F,75***,Paris,3.56,23:00-02:00,At Work,Yes
+[35-54],F,75***,Paris,2.09,20:00-22:00,Away/Vacation,No
+[35-54],F,75***,Paris,0.77,20:00-22:00,Away/Vacation,No
+[35-54],F,75***,Paris,3.78,07:00-09:00,At Home,No
+[35-54],F,75***,Paris,3.72,18:00-20:00,At Home,No
+[35-54],F,75***,Paris,2.7,20:00-22:00,At Home,No
+[35-54],F,75***,Paris,1.52,18:00-20:00,Away/Vacation,No
+[35-54],F,75***,Paris,0.82,18:00-20:00,Away/Vacation,No
+[35-54],F,75***,Paris,2.13,12:00-14:00,At Work,No
+[35-54],F,75***,Paris,5.38,12:00-14:00,Away/Vacation,Yes
+[35-54],F,75***,Paris,2.04,20:00-22:00,Away/Vacation,No
+[35-54],F,75***,Paris,2.87,12:00-14:00,Away/Vacation,No
+[35-54],F,75***,Paris,7.5,12:00-14:00,Night Shift,Yes
+[35-54],F,75***,Paris,7.61,20:00-22:00,Night Shift,Yes
+[35-54],F,75***,Paris,2.16,07:00-09:00,At Work,No
+[35-54],F,75***,Paris,1.88,12:00-14:00,At Home,No
+[35-54],F,75***,Paris,2.51,07:00-09:00,At Home,No
+[35-54],F,75***,Paris,3.15,18:00-20:00,Away/Vacation,No
+[35-54],F,75***,Paris,0.52,20:00-22:00,At Work,No
+[35-54],F,75***,Paris,0.84,07:00-09:00,Away/Vacation,No
+[35-54],F,75***,Paris,3.25,18:00-20:00,Away/Vacation,No
+[35-54],F,75***,Paris,0.3,23:00-02:00,Night Shift,No
+[35-54],F,75***,Paris,4.03,23:00-02:00,Away/Vacation,Yes
+[35-54],F,75***,Paris,3.76,23:00-02:00,Night Shift,No
+[35-54],F,75***,Paris,1.7,07:00-09:00,Away/Vacation,No
+[35-54],F,75***,Paris,2.69,20:00-22:00,At Work,No
+[35-54],F,75***,Paris,3.83,18:00-20:00,At Home,No
+[70-85],F,13***,Marseille,1.11,23:00-02:00,Night Shift,No
+[70-85],F,13***,Marseille,1.53,20:00-22:00,Night Shift,No
+[70-85],F,13***,Marseille,2.16,12:00-14:00,At Work,No
+[70-85],F,13***,Marseille,0.32,18:00-20:00,At Home,No
+[70-85],F,13***,Marseille,2.56,18:00-20:00,Away/Vacation,No
+[70-85],F,13***,Marseille,6.15,12:00-14:00,At Work,Yes
+[70-85],F,13***,Marseille,3.18,12:00-14:00,At Home,No
+[70-85],F,13***,Marseille,3.14,07:00-09:00,At Home,No
+[70-85],F,13***,Marseille,3.73,18:00-20:00,Away/Vacation,No
+[70-85],F,13***,Marseille,1.24,23:00-02:00,At Home,No
+[70-85],F,13***,Marseille,3.28,20:00-22:00,At Home,No
+[70-85],F,13***,Marseille,1.75,18:00-20:00,Away/Vacation,No
+[70-85],F,13***,Marseille,0.56,18:00-20:00,At Home,No
+[70-85],F,13***,Marseille,1.7,12:00-14:00,Night Shift,No
+[70-85],F,13***,Marseille,0.41,20:00-22:00,At Home,No
+[70-85],F,13***,Marseille,3.1,23:00-02:00,At Work,No
+[70-85],F,75***,Paris,2.82,23:00-02:00,Away/Vacation,No
+[70-85],F,75***,Paris,2.17,20:00-22:00,Night Shift,No
+[70-85],F,75***,Paris,0.64,12:00-14:00,Away/Vacation,No
+[70-85],F,75***,Paris,3.87,20:00-22:00,At Home,No
+[70-85],F,75***,Paris,3.63,18:00-20:00,At Work,No
+[70-85],F,75***,Paris,3.23,23:00-02:00,At Work,No
+[70-85],F,75***,Paris,2.54,18:00-20:00,Away/Vacation,No
+[70-85],F,75***,Paris,0.33,20:00-22:00,Away/Vacation,No
+[70-85],F,75***,Paris,1.8,18:00-20:00,At Home,No
+[70-85],F,75***,Paris,3.9,20:00-22:00,Away/Vacation,No
+[70-85],F,75***,Paris,0.7,12:00-14:00,At Work,No
+[70-85],F,75***,Paris,3.61,12:00-14:00,At Work,No
+[70-85],F,75***,Paris,2.15,18:00-20:00,At Work,No
+[70-85],F,75***,Paris,1.76,07:00-09:00,At Work,No
+[70-85],F,75***,Paris,2.21,18:00-20:00,Night Shift,No
+[70-85],F,75***,Paris,3.12,12:00-14:00,Night Shift,No
+[70-85],F,75***,Paris,3.58,07:00-09:00,Away/Vacation,No
+[70-85],F,75***,Paris,0.86,23:00-02:00,At Home,No
+[70-85],F,75***,Paris,1.05,23:00-02:00,Away/Vacation,No
+[70-85],F,75***,Paris,3.98,23:00-02:00,Away/Vacation,No
+[70-85],F,75***,Paris,0.55,18:00-20:00,Away/Vacation,No
+[70-85],F,75***,Paris,2.36,07:00-09:00,At Work,No
+[70-85],F,75***,Paris,3.34,20:00-22:00,At Home,No
+[70-85],F,75***,Paris,3.0,12:00-14:00,At Work,No
+[70-85],F,75***,Paris,3.62,18:00-20:00,At Work,No
+[70-85],F,75***,Paris,3.75,20:00-22:00,At Home,No
+[70-85],F,75***,Paris,3.86,12:00-14:00,Away/Vacation,No
+[70-85],F,75***,Paris,0.63,23:00-02:00,At Home,No
+[70-85],F,75***,Paris,1.63,18:00-20:00,At Work,No
+[70-85],F,75***,Paris,0.45,20:00-22:00,At Work,No
+[70-85],F,75***,Paris,1.94,23:00-02:00,At Home,No
+[70-85],F,75***,Paris,3.06,18:00-20:00,At Home,No
+[70-85],F,75***,Paris,3.63,07:00-09:00,Night Shift,No
+[70-85],F,75***,Paris,1.34,23:00-02:00,At Work,No
+[70-85],F,75***,Paris,2.49,18:00-20:00,Away/Vacation,No
+[70-85],F,75***,Paris,4.63,23:00-02:00,At Work,Yes
+[70-85],F,75***,Paris,1.74,12:00-14:00,At Work,No
+[70-85],F,75***,Paris,2.97,12:00-14:00,At Work,No
+[70-85],F,75***,Paris,0.31,18:00-20:00,At Home,No
+[70-85],F,75***,Paris,3.02,12:00-14:00,At Work,No
+[70-85],F,75***,Paris,1.86,12:00-14:00,Away/Vacation,No
+[70-85],F,75***,Paris,2.19,18:00-20:00,At Home,No
+[70-85],F,75***,Paris,1.61,20:00-22:00,At Home,No
+[70-85],F,75***,Paris,3.76,18:00-20:00,Away/Vacation,No
+[70-85],F,75***,Paris,2.78,07:00-09:00,At Home,No
+[70-85],F,75***,Paris,1.02,07:00-09:00,Away/Vacation,No
+[70-85],F,75***,Paris,3.41,23:00-02:00,At Home,No
+[70-85],F,75***,Paris,1.9,18:00-20:00,Away/Vacation,No
+[70-85],F,75***,Paris,3.6,23:00-02:00,Away/Vacation,No
+[70-85],F,75***,Paris,3.58,18:00-20:00,At Home,No
+[70-85],F,75***,Paris,3.5,07:00-09:00,Away/Vacation,No
+[70-85],F,75***,Paris,0.35,23:00-02:00,At Work,No
+[70-85],F,75***,Paris,3.07,20:00-22:00,At Home,No
+[70-85],F,75***,Paris,2.65,07:00-09:00,Away/Vacation,No
+[70-85],F,75***,Paris,2.11,18:00-20:00,Night Shift,No
+[70-85],F,75***,Paris,3.59,18:00-20:00,Night Shift,No
+[70-85],F,75***,Paris,1.07,18:00-20:00,Away/Vacation,No
+[70-85],F,75***,Paris,1.12,18:00-20:00,Away/Vacation,No
+[70-85],F,75***,Paris,3.19,20:00-22:00,At Work,No
+[70-85],F,75***,Paris,3.76,18:00-20:00,At Home,No
+[70-85],F,75***,Paris,1.06,07:00-09:00,At Home,No
+[70-85],F,75***,Paris,2.0,23:00-02:00,Night Shift,No
+[70-85],F,75***,Paris,3.14,23:00-02:00,Away/Vacation,No
+[70-85],F,75***,Paris,0.46,23:00-02:00,At Work,No
+[70-85],F,75***,Paris,1.94,07:00-09:00,At Work,No
+[70-85],F,75***,Paris,1.15,23:00-02:00,At Home,No
+[70-85],F,75***,Paris,6.58,12:00-14:00,Away/Vacation,Yes
+[70-85],F,75***,Paris,2.08,18:00-20:00,Night Shift,No
+[70-85],F,75***,Paris,2.73,07:00-09:00,Night Shift,No
+[70-85],F,75***,Paris,3.89,20:00-22:00,At Work,No
+[70-85],F,75***,Paris,3.4,23:00-02:00,At Work,No
+[70-85],F,75***,Paris,2.27,20:00-22:00,At Home,No
+[55-69],M,75***,Paris,1.19,07:00-09:00,At Home,No
+[55-69],M,75***,Paris,0.39,18:00-20:00,Away/Vacation,No
+[55-69],M,75***,Paris,2.65,18:00-20:00,Night Shift,No
+[55-69],M,75***,Paris,0.88,07:00-09:00,At Home,No
+[55-69],M,75***,Paris,2.69,18:00-20:00,At Home,No
+[55-69],M,75***,Paris,2.49,12:00-14:00,Away/Vacation,No
+[55-69],M,75***,Paris,3.07,07:00-09:00,At Work,No
+[55-69],M,75***,Paris,1.91,12:00-14:00,Away/Vacation,No
+[55-69],M,75***,Paris,1.81,23:00-02:00,Away/Vacation,No
+[55-69],M,75***,Paris,0.92,23:00-02:00,At Home,No
+[55-69],M,75***,Paris,0.67,12:00-14:00,Away/Vacation,No
+[55-69],M,75***,Paris,0.49,20:00-22:00,Night Shift,No
+[55-69],M,75***,Paris,5.37,12:00-14:00,Away/Vacation,Yes
+[55-69],M,75***,Paris,0.54,18:00-20:00,At Work,No
+[55-69],M,75***,Paris,2.83,12:00-14:00,Night Shift,No
+[55-69],M,75***,Paris,0.76,12:00-14:00,Night Shift,No
+[55-69],M,75***,Paris,3.66,23:00-02:00,At Home,No
+[55-69],M,75***,Paris,5.83,20:00-22:00,Away/Vacation,Yes
+[55-69],M,75***,Paris,3.44,12:00-14:00,At Home,No
+[55-69],M,75***,Paris,0.49,20:00-22:00,At Home,No
+[55-69],M,75***,Paris,2.54,23:00-02:00,Away/Vacation,No
+[55-69],M,75***,Paris,3.9,07:00-09:00,Away/Vacation,No
+[55-69],M,75***,Paris,4.34,20:00-22:00,At Work,Yes
+[55-69],M,75***,Paris,1.92,07:00-09:00,At Home,No
+[55-69],M,75***,Paris,0.65,20:00-22:00,At Work,No
+[55-69],M,75***,Paris,1.99,12:00-14:00,At Work,No
+[55-69],M,75***,Paris,1.53,07:00-09:00,At Work,No
+[55-69],M,75***,Paris,1.49,23:00-02:00,Away/Vacation,No
+[55-69],M,75***,Paris,3.84,07:00-09:00,Away/Vacation,No
+[55-69],M,75***,Paris,2.22,12:00-14:00,Night Shift,No
+[55-69],M,75***,Paris,3.52,18:00-20:00,Night Shift,No
+[55-69],M,75***,Paris,2.43,07:00-09:00,At Work,No
+[55-69],M,75***,Paris,2.11,20:00-22:00,At Home,No
+[55-69],M,75***,Paris,1.69,20:00-22:00,At Home,No
+[55-69],M,75***,Paris,3.13,07:00-09:00,At Home,No
+[55-69],M,75***,Paris,2.96,18:00-20:00,Night Shift,No
+[55-69],M,75***,Paris,1.73,07:00-09:00,Away/Vacation,No
+[35-54],M,69***,Lyon,1.78,18:00-20:00,Night Shift,No
+[35-54],M,69***,Lyon,3.25,07:00-09:00,At Work,No
+[35-54],M,69***,Lyon,3.46,12:00-14:00,Night Shift,No
+[35-54],M,69***,Lyon,1.15,12:00-14:00,Night Shift,No
+[35-54],M,69***,Lyon,2.39,07:00-09:00,At Home,No
+[35-54],M,69***,Lyon,1.71,07:00-09:00,Night Shift,No
+[35-54],M,69***,Lyon,3.18,20:00-22:00,Night Shift,No
+[35-54],M,69***,Lyon,3.17,23:00-02:00,At Home,No
+[35-54],M,69***,Lyon,2.85,12:00-14:00,Night Shift,No
+[35-54],M,69***,Lyon,2.72,12:00-14:00,At Work,No
+[35-54],M,69***,Lyon,0.76,07:00-09:00,Night Shift,No
+[35-54],M,69***,Lyon,2.84,12:00-14:00,At Home,No
+[35-54],M,69***,Lyon,0.8,18:00-20:00,At Work,No
+[35-54],M,69***,Lyon,3.89,20:00-22:00,Away/Vacation,No
+[35-54],M,69***,Lyon,3.71,20:00-22:00,At Work,No
+[35-54],M,69***,Lyon,2.62,07:00-09:00,At Home,No
+[35-54],M,69***,Lyon,3.42,23:00-02:00,At Home,Yes
+[35-54],M,69***,Lyon,0.78,07:00-09:00,Night Shift,No
+[35-54],M,69***,Lyon,3.81,18:00-20:00,At Work,No
+[35-54],M,69***,Lyon,1.61,18:00-20:00,Night Shift,No
+[35-54],M,69***,Lyon,0.57,12:00-14:00,At Home,No
+[35-54],M,69***,Lyon,3.38,23:00-02:00,Away/Vacation,No
+[35-54],M,69***,Lyon,1.06,20:00-22:00,Away/Vacation,No
+[35-54],M,69***,Lyon,0.47,20:00-22:00,At Work,No
+[35-54],M,69***,Lyon,2.01,12:00-14:00,At Work,No
+[35-54],M,69***,Lyon,2.26,18:00-20:00,At Home,No
+[70-85],M,13***,Marseille,3.64,07:00-09:00,Night Shift,No
+[70-85],M,13***,Marseille,3.25,23:00-02:00,Away/Vacation,No
+[70-85],M,13***,Marseille,1.01,12:00-14:00,At Home,No
+[70-85],M,13***,Marseille,0.62,12:00-14:00,At Home,No
+[70-85],M,13***,Marseille,1.75,23:00-02:00,Away/Vacation,No
+[70-85],M,13***,Marseille,2.53,18:00-20:00,Night Shift,No
+[70-85],M,13***,Marseille,0.61,23:00-02:00,At Work,No
+[70-85],M,13***,Marseille,1.18,23:00-02:00,At Home,No
+[70-85],M,13***,Marseille,1.21,18:00-20:00,Away/Vacation,No
+[70-85],M,13***,Marseille,2.22,20:00-22:00,At Work,No
+[70-85],M,13***,Marseille,2.84,20:00-22:00,At Home,No
+[70-85],M,13***,Marseille,0.89,23:00-02:00,At Work,No
+[70-85],M,13***,Marseille,3.45,18:00-20:00,At Home,No
+[70-85],M,13***,Marseille,1.09,23:00-02:00,Away/Vacation,No
+[70-85],M,13***,Marseille,2.97,20:00-22:00,At Work,No
+[18-34],F,75***,Paris,0.49,23:00-02:00,At Work,No
+[18-34],F,75***,Paris,3.11,07:00-09:00,Night Shift,No
+[18-34],F,75***,Paris,3.29,23:00-02:00,At Home,No
+[18-34],F,75***,Paris,2.18,23:00-02:00,At Home,No
+[18-34],F,75***,Paris,2.64,12:00-14:00,Away/Vacation,No
+[18-34],F,75***,Paris,3.57,20:00-22:00,Away/Vacation,No
+[18-34],F,75***,Paris,2.87,20:00-22:00,At Work,No
+[18-34],F,75***,Paris,0.7,18:00-20:00,At Work,No
+[18-34],F,75***,Paris,3.96,12:00-14:00,Away/Vacation,No
+[18-34],F,75***,Paris,1.31,23:00-02:00,Night Shift,No
+[18-34],F,75***,Paris,3.04,23:00-02:00,At Work,No
+[18-34],F,75***,Paris,0.68,23:00-02:00,At Home,No
+[18-34],F,75***,Paris,3.73,23:00-02:00,At Home,No
+[18-34],F,75***,Paris,2.28,23:00-02:00,At Home,No
+[18-34],F,75***,Paris,3.21,20:00-22:00,Away/Vacation,No
+[18-34],F,75***,Paris,1.1,20:00-22:00,Night Shift,No
+[18-34],F,75***,Paris,0.61,20:00-22:00,Away/Vacation,No
+[18-34],F,75***,Paris,2.21,23:00-02:00,Away/Vacation,No
+[18-34],F,75***,Paris,2.24,23:00-02:00,At Work,No
+[18-34],F,75***,Paris,2.85,23:00-02:00,Night Shift,No
+[18-34],F,75***,Paris,1.67,18:00-20:00,At Work,No
+[18-34],F,75***,Paris,2.84,07:00-09:00,Away/Vacation,No
+[18-34],F,75***,Paris,1.67,07:00-09:00,At Home,No
+[18-34],F,75***,Paris,1.95,07:00-09:00,At Work,No
+[18-34],F,75***,Paris,1.81,07:00-09:00,Away/Vacation,No
+[18-34],F,75***,Paris,3.18,18:00-20:00,At Home,Yes
+[18-34],F,75***,Paris,2.99,23:00-02:00,At Home,No
+[18-34],F,75***,Paris,1.32,23:00-02:00,At Work,No
+[18-34],F,75***,Paris,1.7,07:00-09:00,At Work,No
+[18-34],F,75***,Paris,2.81,20:00-22:00,At Work,No
+[18-34],F,75***,Paris,0.97,18:00-20:00,Night Shift,No
+[18-34],F,75***,Paris,3.13,12:00-14:00,Away/Vacation,No
+[18-34],F,75***,Paris,1.64,20:00-22:00,At Work,No
+[18-34],F,75***,Paris,0.85,12:00-14:00,At Work,No
+[18-34],F,75***,Paris,3.58,12:00-14:00,Away/Vacation,No
+[18-34],F,75***,Paris,1.67,23:00-02:00,Night Shift,No
+[18-34],F,75***,Paris,1.7,18:00-20:00,At Work,No
+[18-34],F,75***,Paris,2.0,12:00-14:00,Away/Vacation,No
+[18-34],F,75***,Paris,3.24,07:00-09:00,At Work,No
+[18-34],F,75***,Paris,7.17,18:00-20:00,At Home,Yes
+[18-34],F,75***,Paris,3.47,07:00-09:00,At Home,No
+[18-34],F,75***,Paris,3.28,23:00-02:00,At Home,No
+[18-34],F,75***,Paris,0.86,12:00-14:00,At Home,No
+[18-34],F,75***,Paris,4.34,23:00-02:00,Night Shift,Yes
+[18-34],F,75***,Paris,1.84,12:00-14:00,At Home,No
+[18-34],F,75***,Paris,1.74,18:00-20:00,At Home,No
+[18-34],F,75***,Paris,1.37,18:00-20:00,At Work,No
+[18-34],F,75***,Paris,1.06,12:00-14:00,At Home,No
+[18-34],F,75***,Paris,0.61,12:00-14:00,At Work,No
+[18-34],F,75***,Paris,2.88,07:00-09:00,Away/Vacation,No
+[18-34],F,75***,Paris,1.31,23:00-02:00,Away/Vacation,No
+[35-54],F,69***,Lyon,2.56,23:00-02:00,At Home,No
+[35-54],F,69***,Lyon,0.74,20:00-22:00,At Work,No
+[35-54],F,69***,Lyon,3.02,20:00-22:00,At Work,No
+[35-54],F,69***,Lyon,2.32,18:00-20:00,Night Shift,No
+[35-54],F,69***,Lyon,2.81,20:00-22:00,At Home,No
+[35-54],F,69***,Lyon,1.27,18:00-20:00,At Work,No
+[35-54],F,69***,Lyon,3.85,07:00-09:00,Night Shift,Yes
+[35-54],F,69***,Lyon,0.49,20:00-22:00,Night Shift,No
+[35-54],F,69***,Lyon,2.79,20:00-22:00,At Home,No
+[35-54],F,69***,Lyon,1.63,20:00-22:00,At Home,No
+[35-54],F,69***,Lyon,2.27,07:00-09:00,Away/Vacation,No
+[35-54],F,69***,Lyon,2.53,07:00-09:00,Away/Vacation,No
+[35-54],F,69***,Lyon,2.65,20:00-22:00,Away/Vacation,No
+[35-54],F,69***,Lyon,2.34,07:00-09:00,Away/Vacation,No
+[35-54],F,69***,Lyon,1.05,20:00-22:00,At Work,No
+[35-54],F,69***,Lyon,1.74,12:00-14:00,Away/Vacation,No
+[35-54],F,69***,Lyon,0.39,12:00-14:00,At Home,No
+[35-54],F,69***,Lyon,0.64,18:00-20:00,At Work,No
+[35-54],F,69***,Lyon,3.06,18:00-20:00,At Home,No
+[35-54],F,69***,Lyon,2.53,12:00-14:00,At Home,No
+[35-54],F,69***,Lyon,0.67,20:00-22:00,Away/Vacation,No
+[35-54],F,69***,Lyon,1.14,20:00-22:00,Night Shift,No
+[35-54],F,69***,Lyon,7.16,20:00-22:00,At Home,Yes
+[35-54],F,69***,Lyon,1.08,12:00-14:00,At Home,No
+[35-54],F,69***,Lyon,1.69,07:00-09:00,At Home,No
+[35-54],F,69***,Lyon,7.31,07:00-09:00,At Home,Yes
+[35-54],F,69***,Lyon,0.65,23:00-02:00,Night Shift,No
+[35-54],F,69***,Lyon,1.29,20:00-22:00,Night Shift,No
+[35-54],M,59***,Lille,2.34,07:00-09:00,At Home,No
+[35-54],M,59***,Lille,5.6,12:00-14:00,Away/Vacation,Yes
+[35-54],M,59***,Lille,3.74,18:00-20:00,At Work,No
+[35-54],M,59***,Lille,2.27,23:00-02:00,Night Shift,No
+[35-54],M,59***,Lille,2.95,07:00-09:00,At Home,No
+[35-54],M,59***,Lille,0.96,20:00-22:00,At Work,No
+[35-54],M,59***,Lille,2.4,12:00-14:00,At Home,No
+[35-54],M,59***,Lille,7.32,18:00-20:00,Away/Vacation,Yes
+[35-54],M,59***,Lille,0.59,12:00-14:00,At Work,No
+[35-54],M,59***,Lille,3.29,23:00-02:00,Night Shift,No
+[35-54],F,13***,Marseille,2.81,23:00-02:00,Away/Vacation,No
+[35-54],F,13***,Marseille,0.63,18:00-20:00,At Home,No
+[35-54],F,13***,Marseille,2.24,18:00-20:00,Away/Vacation,No
+[35-54],F,13***,Marseille,1.46,07:00-09:00,At Home,No
+[35-54],F,13***,Marseille,0.52,23:00-02:00,Night Shift,No
+[35-54],F,13***,Marseille,5.65,23:00-02:00,At Work,Yes
+[35-54],F,13***,Marseille,3.17,20:00-22:00,Away/Vacation,No
+[35-54],F,13***,Marseille,2.43,20:00-22:00,Night Shift,No
+[35-54],F,13***,Marseille,1.6,23:00-02:00,At Work,No
+[35-54],F,13***,Marseille,3.8,12:00-14:00,At Home,No
+[35-54],F,13***,Marseille,3.42,23:00-02:00,Away/Vacation,No
+[35-54],F,13***,Marseille,1.48,12:00-14:00,At Home,No
+[35-54],F,13***,Marseille,0.67,07:00-09:00,At Home,No
+[35-54],F,13***,Marseille,3.68,07:00-09:00,At Work,No
+[35-54],F,13***,Marseille,3.91,23:00-02:00,At Work,No
+[35-54],F,13***,Marseille,3.78,23:00-02:00,At Home,No
+[35-54],F,13***,Marseille,3.16,18:00-20:00,Away/Vacation,No
+[35-54],F,13***,Marseille,1.25,12:00-14:00,Away/Vacation,No
+[35-54],F,13***,Marseille,0.47,12:00-14:00,Away/Vacation,No
+[35-54],F,13***,Marseille,2.35,18:00-20:00,At Home,No
+[35-54],F,13***,Marseille,1.3,20:00-22:00,At Work,No
+[70-85],M,44***,Nantes,3.24,12:00-14:00,At Home,No
+[70-85],M,44***,Nantes,3.12,12:00-14:00,Away/Vacation,No
+[70-85],M,44***,Nantes,3.66,12:00-14:00,At Work,No
+[70-85],M,44***,Nantes,1.58,07:00-09:00,Away/Vacation,No
+[70-85],M,44***,Nantes,0.74,07:00-09:00,Away/Vacation,No
+[70-85],M,44***,Nantes,5.98,23:00-02:00,At Work,Yes
+[70-85],M,44***,Nantes,2.75,12:00-14:00,At Work,No
+[70-85],M,44***,Nantes,2.14,23:00-02:00,At Home,No
+[70-85],M,44***,Nantes,1.12,18:00-20:00,At Home,No
+[70-85],M,44***,Nantes,0.87,20:00-22:00,Night Shift,No
+[35-54],F,59***,Lille,1.26,18:00-20:00,Night Shift,No
+[35-54],F,59***,Lille,3.82,07:00-09:00,Away/Vacation,No
+[35-54],F,59***,Lille,2.59,07:00-09:00,Night Shift,No
+[35-54],F,59***,Lille,2.21,23:00-02:00,At Home,No
+[35-54],F,59***,Lille,0.46,23:00-02:00,At Work,No
+[35-54],F,59***,Lille,2.86,23:00-02:00,Night Shift,No
+[35-54],F,59***,Lille,3.12,07:00-09:00,At Work,No
+[35-54],F,59***,Lille,3.48,20:00-22:00,At Work,No
+[35-54],F,59***,Lille,2.85,23:00-02:00,Night Shift,No
+[35-54],F,59***,Lille,3.59,12:00-14:00,Away/Vacation,No
+[35-54],F,59***,Lille,3.97,18:00-20:00,Night Shift,No
+[35-54],F,59***,Lille,2.07,20:00-22:00,Away/Vacation,No
+[35-54],F,59***,Lille,0.88,23:00-02:00,At Work,No
+[18-34],M,75***,Paris,1.16,12:00-14:00,At Home,No
+[18-34],M,75***,Paris,3.84,12:00-14:00,Night Shift,Yes
+[18-34],M,75***,Paris,1.17,18:00-20:00,Night Shift,No
+[18-34],M,75***,Paris,1.93,20:00-22:00,At Work,No
+[18-34],M,75***,Paris,2.28,07:00-09:00,At Work,No
+[18-34],M,75***,Paris,3.08,20:00-22:00,At Home,No
+[18-34],M,75***,Paris,2.21,18:00-20:00,Night Shift,No
+[18-34],M,75***,Paris,6.35,12:00-14:00,At Work,Yes
+[18-34],M,75***,Paris,3.08,20:00-22:00,Away/Vacation,No
+[18-34],M,75***,Paris,1.85,12:00-14:00,Away/Vacation,No
+[18-34],M,75***,Paris,3.64,12:00-14:00,At Home,No
+[18-34],M,75***,Paris,3.17,18:00-20:00,At Home,No
+[18-34],M,75***,Paris,3.0,18:00-20:00,At Work,No
+[18-34],M,75***,Paris,3.45,23:00-02:00,Night Shift,No
+[18-34],M,75***,Paris,3.41,12:00-14:00,At Work,No
+[18-34],M,75***,Paris,2.05,07:00-09:00,At Home,No
+[18-34],M,75***,Paris,2.75,07:00-09:00,At Work,No
+[18-34],M,75***,Paris,2.33,12:00-14:00,Night Shift,No
+[18-34],M,75***,Paris,0.31,07:00-09:00,Night Shift,No
+[18-34],M,75***,Paris,1.84,18:00-20:00,At Work,No
+[18-34],M,75***,Paris,2.02,12:00-14:00,Night Shift,No
+[18-34],M,75***,Paris,2.97,20:00-22:00,At Work,No
+[18-34],M,75***,Paris,3.73,23:00-02:00,Away/Vacation,No
+[18-34],M,75***,Paris,1.53,18:00-20:00,At Home,No
+[18-34],M,75***,Paris,3.48,12:00-14:00,At Work,No
+[18-34],M,75***,Paris,3.03,20:00-22:00,Night Shift,No
+[18-34],M,75***,Paris,1.26,12:00-14:00,Away/Vacation,No
+[18-34],M,75***,Paris,1.03,18:00-20:00,At Work,No
+[18-34],M,75***,Paris,3.25,12:00-14:00,At Work,No
+[18-34],M,75***,Paris,0.69,07:00-09:00,Night Shift,No
+[18-34],M,75***,Paris,1.82,20:00-22:00,At Home,No
+[18-34],M,75***,Paris,2.43,07:00-09:00,Away/Vacation,No
+[18-34],M,75***,Paris,1.3,23:00-02:00,Night Shift,No
+[18-34],M,75***,Paris,2.89,12:00-14:00,At Home,No
+[18-34],M,75***,Paris,5.0,07:00-09:00,Night Shift,Yes
+[18-34],M,75***,Paris,1.35,07:00-09:00,At Home,No
+[18-34],M,75***,Paris,3.98,20:00-22:00,At Work,No
+[18-34],M,75***,Paris,2.9,23:00-02:00,Night Shift,No
+[18-34],M,75***,Paris,2.22,07:00-09:00,Night Shift,No
+[18-34],M,75***,Paris,1.05,07:00-09:00,Away/Vacation,No
+[18-34],M,75***,Paris,6.06,12:00-14:00,Away/Vacation,Yes
+[18-34],M,75***,Paris,1.7,23:00-02:00,At Home,No
+[18-34],M,75***,Paris,2.72,23:00-02:00,Night Shift,No
+[18-34],M,75***,Paris,6.22,07:00-09:00,At Work,Yes
+[18-34],M,75***,Paris,0.91,18:00-20:00,At Home,No
+[18-34],M,75***,Paris,0.99,07:00-09:00,At Work,No
+[18-34],M,75***,Paris,1.86,23:00-02:00,Night Shift,No
+[18-34],M,75***,Paris,1.49,12:00-14:00,Away/Vacation,No
+[18-34],M,75***,Paris,1.23,18:00-20:00,Away/Vacation,No
+[18-34],M,75***,Paris,2.65,23:00-02:00,At Work,No
+[18-34],M,75***,Paris,3.29,18:00-20:00,At Home,No
+[18-34],M,75***,Paris,1.82,23:00-02:00,At Work,No
+[18-34],M,75***,Paris,2.61,12:00-14:00,At Home,No
+[18-34],M,75***,Paris,2.98,18:00-20:00,At Home,No
+[18-34],M,75***,Paris,2.96,20:00-22:00,At Work,No
+[18-34],M,75***,Paris,3.51,18:00-20:00,At Work,No
+[18-34],M,75***,Paris,3.8,18:00-20:00,Night Shift,No
+[18-34],M,75***,Paris,1.98,23:00-02:00,Away/Vacation,No
+[18-34],M,75***,Paris,2.07,07:00-09:00,At Work,No
+[18-34],M,75***,Paris,1.55,18:00-20:00,Away/Vacation,No
+[18-34],M,75***,Paris,0.55,12:00-14:00,At Home,No
+[18-34],M,75***,Paris,2.67,07:00-09:00,Night Shift,No
+[18-34],M,75***,Paris,3.22,20:00-22:00,At Home,No
+[18-34],M,75***,Paris,3.41,20:00-22:00,At Work,No
+[18-34],M,75***,Paris,3.34,07:00-09:00,At Home,No
+[18-34],M,75***,Paris,3.55,18:00-20:00,At Home,No
+[18-34],F,44***,Nantes,0.32,20:00-22:00,Night Shift,No
+[18-34],F,44***,Nantes,0.61,18:00-20:00,Away/Vacation,No
+[18-34],F,44***,Nantes,2.42,18:00-20:00,Night Shift,No
+[18-34],F,44***,Nantes,5.43,18:00-20:00,Night Shift,Yes
+[18-34],F,44***,Nantes,0.47,07:00-09:00,At Home,No
+[18-34],F,44***,Nantes,2.46,12:00-14:00,Night Shift,No
+[18-34],F,44***,Nantes,3.96,23:00-02:00,At Work,No
+[18-34],F,44***,Nantes,2.13,20:00-22:00,Away/Vacation,No
+[18-34],F,44***,Nantes,1.35,07:00-09:00,At Home,No
+[18-34],F,44***,Nantes,4.41,12:00-14:00,Night Shift,Yes
+[18-34],F,44***,Nantes,3.45,12:00-14:00,At Home,No
+[18-34],F,44***,Nantes,2.32,20:00-22:00,At Home,No
+[18-34],M,69***,Lyon,2.43,20:00-22:00,Night Shift,No
+[18-34],M,69***,Lyon,1.03,07:00-09:00,At Work,No
+[18-34],M,69***,Lyon,1.96,20:00-22:00,At Home,No
+[18-34],M,69***,Lyon,1.1,23:00-02:00,Night Shift,No
+[18-34],M,69***,Lyon,2.01,20:00-22:00,Night Shift,No
+[18-34],M,69***,Lyon,3.32,20:00-22:00,At Work,No
+[18-34],M,69***,Lyon,3.71,12:00-14:00,At Home,No
+[18-34],M,69***,Lyon,1.79,20:00-22:00,At Home,No
+[18-34],M,69***,Lyon,3.08,18:00-20:00,Away/Vacation,No
+[18-34],M,69***,Lyon,1.14,18:00-20:00,Away/Vacation,No
+[18-34],M,69***,Lyon,2.39,12:00-14:00,At Work,No
+[18-34],M,69***,Lyon,3.41,20:00-22:00,At Work,No
+[18-34],M,69***,Lyon,1.19,20:00-22:00,At Home,No
+[18-34],M,69***,Lyon,3.82,07:00-09:00,Away/Vacation,No
+[18-34],M,69***,Lyon,1.08,23:00-02:00,At Home,No
+[18-34],M,69***,Lyon,3.73,07:00-09:00,At Work,No
+[18-34],M,69***,Lyon,1.86,07:00-09:00,At Work,No
+[18-34],M,69***,Lyon,3.77,18:00-20:00,At Work,No
+[18-34],M,69***,Lyon,2.4,18:00-20:00,At Work,No
+[18-34],M,69***,Lyon,1.35,20:00-22:00,Away/Vacation,No
+[18-34],M,69***,Lyon,3.23,18:00-20:00,Night Shift,No
+[18-34],M,69***,Lyon,1.22,07:00-09:00,Away/Vacation,No
+[18-34],M,69***,Lyon,3.73,23:00-02:00,Away/Vacation,No
+[18-34],M,69***,Lyon,0.93,18:00-20:00,Night Shift,No
+[18-34],M,69***,Lyon,0.7,12:00-14:00,Night Shift,No
+[18-34],M,69***,Lyon,2.45,07:00-09:00,At Home,No
+[70-85],F,69***,Lyon,1.49,07:00-09:00,Away/Vacation,No
+[70-85],F,69***,Lyon,2.61,07:00-09:00,Away/Vacation,No
+[70-85],F,69***,Lyon,1.68,20:00-22:00,At Home,No
+[70-85],F,69***,Lyon,3.25,18:00-20:00,At Home,No
+[70-85],F,69***,Lyon,3.26,07:00-09:00,Night Shift,No
+[70-85],F,69***,Lyon,2.09,20:00-22:00,Away/Vacation,No
+[70-85],F,69***,Lyon,0.92,18:00-20:00,At Home,No
+[70-85],F,69***,Lyon,0.94,23:00-02:00,Away/Vacation,No
+[70-85],F,69***,Lyon,3.46,18:00-20:00,Away/Vacation,No
+[70-85],F,69***,Lyon,2.89,18:00-20:00,At Home,No
+[70-85],F,69***,Lyon,2.24,18:00-20:00,At Work,No
+[70-85],F,69***,Lyon,1.86,18:00-20:00,Away/Vacation,No
+[70-85],F,69***,Lyon,3.3,07:00-09:00,At Home,No
+[70-85],F,69***,Lyon,2.17,18:00-20:00,Night Shift,No
+[70-85],F,69***,Lyon,2.46,20:00-22:00,Night Shift,No
+[70-85],F,69***,Lyon,0.75,20:00-22:00,Away/Vacation,No
+[70-85],F,69***,Lyon,5.58,12:00-14:00,At Work,Yes
+[70-85],F,69***,Lyon,3.95,07:00-09:00,Away/Vacation,No
+[70-85],F,69***,Lyon,1.3,18:00-20:00,At Work,No
+[70-85],F,69***,Lyon,2.84,20:00-22:00,Away/Vacation,No
+[70-85],F,69***,Lyon,2.65,18:00-20:00,At Home,No
+[70-85],F,69***,Lyon,3.14,18:00-20:00,At Work,No
+[70-85],F,69***,Lyon,2.98,12:00-14:00,Away/Vacation,No
+[70-85],F,69***,Lyon,0.74,18:00-20:00,At Home,No
+[70-85],F,69***,Lyon,1.51,20:00-22:00,Night Shift,No
+[70-85],F,69***,Lyon,2.68,07:00-09:00,At Home,No
+[70-85],F,69***,Lyon,2.2,23:00-02:00,At Home,No
+[70-85],F,69***,Lyon,3.35,20:00-22:00,At Home,No
+[70-85],F,69***,Lyon,3.93,18:00-20:00,At Work,No
+[70-85],F,69***,Lyon,3.49,18:00-20:00,Away/Vacation,No
+[35-54],M,31***,Toulouse,2.54,12:00-14:00,Night Shift,No
+[35-54],M,31***,Toulouse,1.69,20:00-22:00,Night Shift,No
+[35-54],M,31***,Toulouse,2.53,23:00-02:00,Away/Vacation,No
+[35-54],M,31***,Toulouse,6.17,20:00-22:00,At Work,Yes
+[35-54],M,31***,Toulouse,0.34,20:00-22:00,Night Shift,No
+[35-54],M,31***,Toulouse,0.92,12:00-14:00,Night Shift,No
+[35-54],M,31***,Toulouse,2.85,23:00-02:00,At Work,No
+[35-54],M,31***,Toulouse,3.96,20:00-22:00,Night Shift,No
+[35-54],M,31***,Toulouse,0.74,20:00-22:00,At Work,No
+[35-54],M,31***,Toulouse,0.75,23:00-02:00,Night Shift,No
+[55-69],F,69***,Lyon,2.15,07:00-09:00,At Home,No
+[55-69],F,69***,Lyon,3.07,23:00-02:00,Away/Vacation,No
+[55-69],F,69***,Lyon,2.47,07:00-09:00,Night Shift,No
+[55-69],F,69***,Lyon,3.14,18:00-20:00,Away/Vacation,No
+[55-69],F,69***,Lyon,3.99,18:00-20:00,At Work,No
+[55-69],F,69***,Lyon,2.16,07:00-09:00,At Home,No
+[55-69],F,69***,Lyon,3.89,23:00-02:00,At Work,No
+[55-69],F,69***,Lyon,4.17,23:00-02:00,Night Shift,Yes
+[55-69],F,69***,Lyon,1.85,20:00-22:00,At Home,No
+[55-69],F,69***,Lyon,1.98,23:00-02:00,Night Shift,No
+[55-69],F,69***,Lyon,3.02,07:00-09:00,At Home,No
+[55-69],F,69***,Lyon,3.15,12:00-14:00,At Work,No
+[55-69],F,69***,Lyon,3.43,07:00-09:00,At Work,No
+[55-69],F,69***,Lyon,1.66,23:00-02:00,At Home,No
+[55-69],F,69***,Lyon,6.81,12:00-14:00,Away/Vacation,Yes
+[18-34],M,13***,Marseille,2.6,20:00-22:00,At Home,No
+[18-34],M,13***,Marseille,2.87,20:00-22:00,At Work,No
+[18-34],M,13***,Marseille,1.61,12:00-14:00,At Work,No
+[18-34],M,13***,Marseille,2.29,18:00-20:00,At Work,No
+[18-34],M,13***,Marseille,1.73,12:00-14:00,Night Shift,No
+[18-34],M,13***,Marseille,6.92,23:00-02:00,Night Shift,Yes
+[18-34],M,13***,Marseille,2.13,23:00-02:00,At Home,No
+[18-34],M,13***,Marseille,1.64,12:00-14:00,Away/Vacation,No
+[18-34],M,13***,Marseille,2.59,12:00-14:00,At Home,No
+[18-34],M,13***,Marseille,3.1,07:00-09:00,At Home,No
+[18-34],M,13***,Marseille,0.7,07:00-09:00,At Home,No
+[18-34],M,13***,Marseille,2.45,23:00-02:00,Night Shift,No
+[18-34],M,13***,Marseille,1.97,23:00-02:00,At Home,No
+[18-34],M,13***,Marseille,5.52,20:00-22:00,Away/Vacation,Yes
+[55-69],M,31***,Toulouse,0.64,07:00-09:00,Night Shift,No
+[55-69],M,31***,Toulouse,2.46,07:00-09:00,Night Shift,No
+[55-69],M,31***,Toulouse,2.79,18:00-20:00,At Work,No
+[55-69],M,31***,Toulouse,0.62,23:00-02:00,Night Shift,No
+[55-69],M,31***,Toulouse,2.7,07:00-09:00,At Work,No
+[55-69],M,31***,Toulouse,1.68,23:00-02:00,At Home,No
+[55-69],M,31***,Toulouse,1.27,20:00-22:00,At Work,No
+[55-69],M,31***,Toulouse,0.67,23:00-02:00,Away/Vacation,No
+[55-69],M,31***,Toulouse,4.87,07:00-09:00,Night Shift,Yes
+[55-69],M,31***,Toulouse,3.56,23:00-02:00,At Home,No
+[55-69],F,13***,Marseille,2.78,23:00-02:00,Night Shift,No
+[55-69],F,13***,Marseille,2.37,18:00-20:00,Away/Vacation,No
+[55-69],F,13***,Marseille,2.32,20:00-22:00,At Home,No
+[55-69],F,13***,Marseille,0.68,23:00-02:00,At Work,No
+[55-69],F,13***,Marseille,6.38,12:00-14:00,Away/Vacation,Yes
+[55-69],F,13***,Marseille,6.92,18:00-20:00,Away/Vacation,Yes
+[55-69],F,13***,Marseille,1.91,12:00-14:00,Night Shift,No
+[55-69],F,13***,Marseille,0.5,07:00-09:00,Away/Vacation,No
+[55-69],F,13***,Marseille,0.7,12:00-14:00,Night Shift,No
+[55-69],F,13***,Marseille,3.29,18:00-20:00,At Home,No
+[55-69],F,13***,Marseille,0.38,18:00-20:00,At Home,No
+[55-69],F,13***,Marseille,3.31,23:00-02:00,Night Shift,Yes
+[55-69],F,13***,Marseille,1.55,12:00-14:00,At Work,No
+[55-69],F,13***,Marseille,0.74,07:00-09:00,Night Shift,No
+[55-69],F,13***,Marseille,1.11,20:00-22:00,At Home,No
+[55-69],F,13***,Marseille,2.18,12:00-14:00,At Home,No
+[55-69],F,13***,Marseille,3.58,07:00-09:00,Away/Vacation,No
+[55-69],F,13***,Marseille,3.52,23:00-02:00,Night Shift,No
+[70-85],F,31***,Toulouse,3.51,18:00-20:00,Away/Vacation,No
+[70-85],F,31***,Toulouse,2.9,23:00-02:00,At Work,No
+[70-85],F,31***,Toulouse,5.18,20:00-22:00,Away/Vacation,Yes
+[70-85],F,31***,Toulouse,2.75,20:00-22:00,Night Shift,No
+[70-85],F,31***,Toulouse,3.78,18:00-20:00,Night Shift,No
+[70-85],F,31***,Toulouse,2.01,07:00-09:00,Night Shift,No
+[70-85],F,31***,Toulouse,0.32,07:00-09:00,Night Shift,No
+[70-85],F,31***,Toulouse,0.51,18:00-20:00,Away/Vacation,No
+[70-85],F,31***,Toulouse,2.36,12:00-14:00,Night Shift,No
+[70-85],F,31***,Toulouse,0.38,18:00-20:00,At Home,No
+[35-54],M,13***,Marseille,0.56,07:00-09:00,At Home,No
+[35-54],M,13***,Marseille,2.61,12:00-14:00,Night Shift,No
+[35-54],M,13***,Marseille,0.5,07:00-09:00,At Home,No
+[35-54],M,13***,Marseille,0.65,12:00-14:00,At Work,No
+[35-54],M,13***,Marseille,1.35,12:00-14:00,At Home,No
+[35-54],M,13***,Marseille,2.16,07:00-09:00,Night Shift,No
+[35-54],M,13***,Marseille,1.75,18:00-20:00,Night Shift,No
+[35-54],M,13***,Marseille,2.73,20:00-22:00,At Work,No
+[35-54],M,13***,Marseille,1.64,07:00-09:00,Night Shift,No
+[35-54],M,13***,Marseille,3.21,20:00-22:00,At Work,No
+[35-54],M,13***,Marseille,2.65,23:00-02:00,Night Shift,No
+[35-54],M,13***,Marseille,1.05,12:00-14:00,At Home,No
+[35-54],M,13***,Marseille,1.83,23:00-02:00,Away/Vacation,No
+[35-54],M,13***,Marseille,1.29,07:00-09:00,At Work,No
+[35-54],M,13***,Marseille,3.1,23:00-02:00,Away/Vacation,No
+[70-85],M,69***,Lyon,2.81,23:00-02:00,Away/Vacation,No
+[70-85],M,69***,Lyon,2.43,20:00-22:00,Away/Vacation,No
+[70-85],M,69***,Lyon,0.72,12:00-14:00,At Work,No
+[70-85],M,69***,Lyon,2.04,18:00-20:00,Away/Vacation,No
+[70-85],M,69***,Lyon,0.5,12:00-14:00,Night Shift,No
+[70-85],M,69***,Lyon,0.4,07:00-09:00,Night Shift,No
+[70-85],M,69***,Lyon,1.92,23:00-02:00,Away/Vacation,No
+[70-85],M,69***,Lyon,1.22,12:00-14:00,At Home,No
+[70-85],M,69***,Lyon,0.84,07:00-09:00,Away/Vacation,No
+[70-85],M,69***,Lyon,4.41,18:00-20:00,At Home,Yes
+[70-85],M,69***,Lyon,5.85,18:00-20:00,At Home,Yes
+[70-85],M,69***,Lyon,3.57,18:00-20:00,Night Shift,No
+[70-85],M,69***,Lyon,3.73,12:00-14:00,At Work,No
+[70-85],M,69***,Lyon,3.18,20:00-22:00,Away/Vacation,No
+[70-85],M,69***,Lyon,0.82,20:00-22:00,At Home,No
+[70-85],M,69***,Lyon,3.84,07:00-09:00,Night Shift,No
+[18-34],F,69***,Lyon,1.23,23:00-02:00,At Work,No
+[18-34],F,69***,Lyon,1.98,23:00-02:00,Night Shift,No
+[18-34],F,69***,Lyon,3.41,18:00-20:00,Night Shift,No
+[18-34],F,69***,Lyon,1.65,18:00-20:00,At Home,No
+[18-34],F,69***,Lyon,2.51,23:00-02:00,Away/Vacation,No
+[18-34],F,69***,Lyon,0.96,20:00-22:00,At Home,No
+[18-34],F,69***,Lyon,3.94,23:00-02:00,At Work,No
+[18-34],F,69***,Lyon,2.09,07:00-09:00,Night Shift,No
+[18-34],F,69***,Lyon,2.61,07:00-09:00,Night Shift,No
+[18-34],F,69***,Lyon,2.01,18:00-20:00,At Home,No
+[18-34],F,69***,Lyon,0.53,07:00-09:00,At Work,No
+[18-34],F,69***,Lyon,2.7,07:00-09:00,Night Shift,No
+[18-34],F,69***,Lyon,6.7,07:00-09:00,At Work,Yes
+[18-34],F,69***,Lyon,3.39,23:00-02:00,At Home,No
+[18-34],F,13***,Marseille,2.8,20:00-22:00,Away/Vacation,No
+[18-34],F,13***,Marseille,2.79,07:00-09:00,At Work,No
+[18-34],F,13***,Marseille,0.81,23:00-02:00,At Work,No
+[18-34],F,13***,Marseille,3.48,20:00-22:00,At Home,No
+[18-34],F,13***,Marseille,3.56,07:00-09:00,At Work,No
+[18-34],F,13***,Marseille,0.85,12:00-14:00,Away/Vacation,No
+[18-34],F,13***,Marseille,3.28,07:00-09:00,At Home,No
+[18-34],F,13***,Marseille,1.79,20:00-22:00,At Work,No
+[18-34],F,13***,Marseille,3.04,23:00-02:00,Away/Vacation,No
+[18-34],F,13***,Marseille,2.46,07:00-09:00,At Home,No
+[18-34],F,13***,Marseille,0.79,23:00-02:00,At Work,No
+[18-34],F,13***,Marseille,1.54,18:00-20:00,Night Shift,No
+[18-34],F,13***,Marseille,3.82,07:00-09:00,Night Shift,No
+[18-34],F,13***,Marseille,2.72,18:00-20:00,Away/Vacation,No
+[18-34],F,13***,Marseille,3.8,20:00-22:00,Away/Vacation,No
+[18-34],F,13***,Marseille,0.4,18:00-20:00,Night Shift,No
+[18-34],F,13***,Marseille,2.41,23:00-02:00,At Work,No
+[55-69],M,13***,Marseille,1.13,07:00-09:00,Away/Vacation,No
+[55-69],M,13***,Marseille,4.18,07:00-09:00,At Home,Yes
+[55-69],M,13***,Marseille,5.28,07:00-09:00,Away/Vacation,Yes
+[55-69],M,13***,Marseille,1.12,18:00-20:00,Away/Vacation,No
+[55-69],M,13***,Marseille,2.58,20:00-22:00,At Work,No
+[55-69],M,13***,Marseille,2.18,18:00-20:00,Night Shift,No
+[55-69],M,13***,Marseille,3.79,12:00-14:00,At Work,No
+[55-69],M,13***,Marseille,3.53,07:00-09:00,Night Shift,No
+[55-69],M,13***,Marseille,5.6,20:00-22:00,At Work,Yes
+[55-69],M,13***,Marseille,3.08,07:00-09:00,Night Shift,No
+[55-69],M,13***,Marseille,1.42,07:00-09:00,At Work,No
+[55-69],M,13***,Marseille,2.94,12:00-14:00,Night Shift,No
+[55-69],M,13***,Marseille,2.09,23:00-02:00,Night Shift,No
+[35-54],F,44***,Nantes,2.64,07:00-09:00,Night Shift,No
+[35-54],F,44***,Nantes,2.16,18:00-20:00,At Work,No
+[35-54],F,44***,Nantes,1.71,12:00-14:00,At Work,No
+[35-54],F,44***,Nantes,2.65,07:00-09:00,Night Shift,No
+[35-54],F,44***,Nantes,3.82,12:00-14:00,Night Shift,No
+[35-54],F,44***,Nantes,1.38,12:00-14:00,At Work,No
+[35-54],F,44***,Nantes,1.04,23:00-02:00,Away/Vacation,No
+[35-54],F,44***,Nantes,2.22,07:00-09:00,At Work,No
+[35-54],F,44***,Nantes,1.7,07:00-09:00,Away/Vacation,No
+[35-54],F,44***,Nantes,3.21,23:00-02:00,Away/Vacation,No
+[35-54],F,44***,Nantes,3.85,23:00-02:00,At Work,No
+[35-54],F,44***,Nantes,2.77,12:00-14:00,At Home,No
+[55-69],F,59***,Lille,3.2,18:00-20:00,Night Shift,No
+[55-69],F,59***,Lille,3.83,07:00-09:00,Away/Vacation,No
+[55-69],F,59***,Lille,3.91,18:00-20:00,Night Shift,No
+[55-69],F,59***,Lille,3.43,18:00-20:00,At Work,No
+[55-69],F,59***,Lille,7.05,18:00-20:00,At Home,Yes
+[55-69],F,59***,Lille,2.61,12:00-14:00,At Work,No
+[55-69],F,59***,Lille,2.63,20:00-22:00,At Home,No
+[55-69],F,59***,Lille,2.68,20:00-22:00,At Home,No
+[55-69],F,59***,Lille,2.12,23:00-02:00,Away/Vacation,No
+[55-69],F,59***,Lille,3.51,12:00-14:00,At Work,No
+[55-69],F,59***,Lille,2.36,07:00-09:00,At Home,No
+[55-69],F,59***,Lille,1.17,12:00-14:00,At Work,No
+[18-34],F,31***,Toulouse,0.94,12:00-14:00,Away/Vacation,No
+[18-34],F,31***,Toulouse,5.23,12:00-14:00,Night Shift,Yes
+[18-34],F,31***,Toulouse,5.24,07:00-09:00,At Home,Yes
+[18-34],F,31***,Toulouse,0.96,12:00-14:00,At Home,No
+[18-34],F,31***,Toulouse,2.4,18:00-20:00,At Home,No
+[18-34],F,31***,Toulouse,3.59,23:00-02:00,Away/Vacation,No
+[18-34],F,31***,Toulouse,1.79,23:00-02:00,Away/Vacation,No
+[18-34],F,31***,Toulouse,3.78,12:00-14:00,At Home,No
+[18-34],F,31***,Toulouse,1.26,23:00-02:00,Night Shift,No
+[18-34],F,31***,Toulouse,2.72,07:00-09:00,At Home,No
+[18-34],F,31***,Toulouse,3.37,07:00-09:00,At Home,No
+[18-34],F,31***,Toulouse,3.74,23:00-02:00,At Work,No
+[18-34],F,31***,Toulouse,1.79,07:00-09:00,Night Shift,No
+[55-69],M,69***,Lyon,3.07,18:00-20:00,At Home,No
+[55-69],M,69***,Lyon,0.93,23:00-02:00,Away/Vacation,No
+[55-69],M,69***,Lyon,3.2,12:00-14:00,At Home,No
+[55-69],M,69***,Lyon,4.04,12:00-14:00,Away/Vacation,Yes
+[55-69],M,69***,Lyon,2.74,23:00-02:00,Night Shift,No
+[55-69],M,69***,Lyon,3.96,20:00-22:00,At Home,No
+[55-69],M,69***,Lyon,3.08,12:00-14:00,At Home,No
+[55-69],M,69***,Lyon,0.91,20:00-22:00,Night Shift,No
+[55-69],M,69***,Lyon,1.52,20:00-22:00,Away/Vacation,No
+[55-69],M,69***,Lyon,3.26,18:00-20:00,Night Shift,No
+[55-69],M,69***,Lyon,2.89,07:00-09:00,At Work,No
+[55-69],M,69***,Lyon,1.88,23:00-02:00,At Work,No
+[55-69],M,69***,Lyon,6.19,18:00-20:00,At Work,Yes
+[55-69],M,69***,Lyon,2.41,07:00-09:00,Night Shift,No
+[55-69],M,69***,Lyon,3.83,20:00-22:00,Away/Vacation,No
+[55-69],M,69***,Lyon,2.17,12:00-14:00,Away/Vacation,No
+[55-69],M,69***,Lyon,2.88,23:00-02:00,Night Shift,No
+[55-69],M,69***,Lyon,2.12,20:00-22:00,At Home,No
+[55-69],M,69***,Lyon,0.98,23:00-02:00,Night Shift,No
+[55-69],M,69***,Lyon,3.71,12:00-14:00,At Work,No
+[55-69],M,69***,Lyon,3.46,20:00-22:00,At Home,No
+[55-69],M,69***,Lyon,2.41,12:00-14:00,At Work,No

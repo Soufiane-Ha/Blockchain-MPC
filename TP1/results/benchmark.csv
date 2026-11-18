@@ -1,0 +1,4 @@
+data_size,data_bytes,aes_encrypt_ms,aes_decrypt_ms,rsa_key_encrypt_ms,rsa_key_decrypt_ms,aes_ciphertext_bytes,rsa_wrapped_key_bytes
+1KB,1024,0.025,0.006,0.564,2.34,1040,384
+1MB,1048576,0.519,0.509,0.093,1.626,1048592,384
+10MB,10485760,5.442,5.838,0.159,1.684,10485776,384
